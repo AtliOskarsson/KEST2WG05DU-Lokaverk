@@ -5,3 +5,5 @@
  - Banna Tölvubraut að fara inná stackoverflow.com
  - Banna Facebook fyrir alla
  - Prentarar fyrir Prentun brautina
+ - BGINFO fyrir Tölvubraut
+ 
